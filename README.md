@@ -14,6 +14,8 @@ Repo contents
 -------------
 
 ```
+docs/
+  Wiring.txt
 src/
   firmware_part1/
     xsns_120_customsensor.ino
@@ -86,7 +88,7 @@ Copy it into your local Tasmota source tree:
 Example:
 
 ```bash
-cp src/firmware_part1/xsns_120_customsensor.ino /path/to/Tasmota/tasmota/
+cp src/firmware_part1/xsns_120_customsensor.ino /path/to/Tasmota/tasmota/tasmota_xsns_sensor/
 ```
 
 
