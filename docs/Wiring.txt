@@ -1,0 +1,10 @@
+### Wiring
+
+ESP32-S3 DevKitC connected to BMP280 via I²C:
+
+| BMP280 | ESP32-S3 DevKitC |
+|-------|------------------|
+| VIN   | 3V3 |
+| GND   | GND |
+| SDA   | GPIO8 |
+| SCL   | GPIO9 |
